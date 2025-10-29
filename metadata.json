@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cultur",
+  "description": "A web platform named Cultur for users to enjoy news, music, and videos. Users can create and manage their own playlists. The platform includes role-based access for Admins and Editors to manage content and users.",
+  "requestFramePermissions": []
+}
